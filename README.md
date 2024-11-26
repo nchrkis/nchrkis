@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicholas (Nikos) Christakis, a physicist by education and a computational scientist by elaboration
+- 👋 Hi, I’m Nikos (Nicholas) Christakis, a physicist by education and a computational scientist by elaboration
 - 👀 I’m interested in all things numerical that involve the modelling of physical systems, with a particular interest in Machine Learning, Numerical Meteorology and Fluid Dynamics
 - 🌱 I’m always trying to keep up with new developments in the fields of physics/mathematics/computational science 
 - 💞️ I’m looking to collaborate on exciting ideas where Machine Learning gets entangled with Physics.  Or, on any project really that turns creativity into currency!
